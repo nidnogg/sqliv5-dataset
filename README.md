@@ -6,5 +6,5 @@ The purpose of this expansion is to have a reliable way to increment the robustn
 
 
 ## Featured in:
-* [WAF-A-MoLE](https://github.com/AvalZ/WAF-A-MoLE) by [Andrea Valenza](https://avalz.it/) 
+* [WAF-A-MoLE](https://github.com/AvalZ/WAF-A-MoLE) by [Andrea Valenza](https://avalz.it/) and [Luca Demetrio](https://zangobot.github.io/) 
 * [wafamole++](https://github.com/nidnogg/wafamole-plusplus) by Henrique Vermelho ([nidnogg](https://github.com/nidnogg))
